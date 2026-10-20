@@ -1,0 +1,14 @@
+{
+  "name": "disney-lorcana-hyperia-city-wiki",
+  "compatibility_date": "2024-09-01",
+  "workers_dev": false,
+  "assets": {
+    "directory": "./out"
+  },
+  "routes": [
+    {
+      "pattern": "disney-lorcana-hyperia-city.wiki",
+      "custom_domain": true
+    }
+  ]
+}
