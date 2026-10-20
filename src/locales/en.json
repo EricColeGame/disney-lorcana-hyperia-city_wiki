@@ -12,8 +12,8 @@
   },
   "home": {
     "meta": {
-      "title": "My Seafood Stand Wiki — Codes, Recipes, Upgrades & Guides",
-      "description": "Complete My Seafood Stand guide on Roblox with active working codes, all fish & recipes, best upgrades tier list, and fast cash tips."
+      "title": "Disney Lorcana Hyperia City Wiki — Cards, Ink Drops & Deck Guides",
+      "description": "Explore Disney Lorcana Hyperia City with a complete card list, Ink Drops rules, beginner tips, deck guides, tier list, and release details."
     },
     "hero": {
       "eyebrow": "Set 14 Expansion Wiki",
@@ -37,27 +37,27 @@
     },
     "start": {
       "eyebrow": "Start Here",
-      "title": "Your My Seafood Stand Journey",
+      "title": "Your Disney Lorcana Hyperia City Journey",
       "cards": [
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Learn the core Lorcana rules, build a legal 60-card deck, and understand how questing, challenging, and inkwells work in Hyperia City."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Complete Card List",
+          "description": "Browse Hyperia City characters, actions, items, locations, and songs by ink, rarity, and collector number."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Ink Drops Explained",
+          "description": "See how Ink Drop tokens create one-time bursts of Ink and when to save them for a decisive turn."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in My Seafood Stand."
+          "title": "Deck Building Basics",
+          "description": "Choose two inks, shape a reliable cost curve, and test your first Hyperia City deck before buying singles."
         }
       ]
     },
@@ -65,265 +65,363 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Card List",
+        "Ink Drops",
+        "Deck Tier List",
+        "Release Guide"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Learn the core rules, deck limits, and first steps for playing Disney Lorcana Hyperia City.",
+          "href": "/guide/disney-lorcana-hyperia-city-beginner-guide"
         },
         {
           "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "title": "Complete Card List",
+          "description": "Browse Hyperia City characters, songs, items, and locations by ink and rarity.",
+          "href": "/items/disney-lorcana-hyperia-city-card-list"
+        },
+        {
+          "badge": "New",
+          "title": "Ink Drops Guide",
+          "description": "Understand temporary Ink, token timing, and the best turns to spend a burst.",
+          "href": "/mechanics/disney-lorcana-hyperia-city-ink-drop-mechanic"
+        },
+        {
+          "badge": "Popular",
+          "title": "Deck Tier List",
+          "description": "Compare ramp, aggro, control, tempo, midrange, and budget archetypes.",
+          "href": "/progression/disney-lorcana-hyperia-city-deck-tier-list"
+        },
+        {
+          "badge": "New",
+          "title": "Release Guide",
+          "description": "Check prerelease and launch dates, products, and buying priorities.",
+          "href": "/items/disney-lorcana-hyperia-city-release-date"
+        },
+        {
+          "badge": "Popular",
+          "title": "Deck Building Guide",
+          "description": "Choose an ink pair, build a healthy curve, and test a focused 60-card list.",
+          "href": "/guide/disney-lorcana-hyperia-city-deck-building-guide"
+        },
+        {
+          "badge": "New",
+          "title": "Card Abilities",
+          "description": "Review the song, discard-pile, Evasive, and character-upgrade abilities.",
+          "href": "/mechanics/disney-lorcana-hyperia-city-card-abilities"
+        },
+        {
+          "badge": "Popular",
+          "title": "Best Cards",
+          "description": "Find the standout Hyperia City cards for decks and sealed play.",
+          "href": "/items/disney-lorcana-hyperia-city-best-cards"
         },
         {
           "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
-        },
-        {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
-        },
-        {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
-        },
-        {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
-        },
-        {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
-        },
-        {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "title": "Rarity Guide",
+          "description": "Understand Hyperia City rarity tiers and what each one means for collectors.",
+          "href": "/mechanics/disney-lorcana-hyperia-city-rarity-guide"
         }
       ]
     },
     "aboutGame": {
-      "title": "What is My Seafood Stand?",
+      "title": "What is Disney Lorcana Hyperia City?",
       "paragraphs": [
-        "My Seafood Stand is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Disney Lorcana Hyperia City is a trading card game expansion from Ravensburger that moves Disney Lorcana into a neon-lit metropolis. The set brings together Disney and Pixar characters, with a strong focus on Pixar's Coco, and introduces music-driven card designs, songs, discard-pile payoffs, and the Ink Drop mechanic.",
+        "Players build 60-card decks using up to two ink types, then quest for lore, challenge opposing characters, and race to 20 lore. Hyperia City supports sealed play at prerelease events and constructed deck building, giving newcomers a complete set to learn with and experienced players fresh archetypes to test."
       ],
       "stats": [
         {
-          "label": "Developer",
-          "value": "Midnight Continent"
+          "label": "Publisher",
+          "value": "Ravensburger"
         },
         {
-          "label": "Platform",
-          "value": "Roblox"
+          "label": "Format",
+          "value": "Trading Card Game"
         },
         {
-          "label": "Genre",
-          "value": "Fighting RPG"
+          "label": "Release",
+          "value": "October 23, 2026"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Expansion",
+          "value": "Set 14"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Featured Film",
+          "value": "Coco"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
-        },
-        {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "New Mechanic",
+          "value": "Ink Drops"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
-      "title": "Explore My Seafood Stand Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "title": "Explore Disney Lorcana Hyperia City",
+      "description": "Dive into the Hyperia City expansion with card lists, Ink Drops rules, beginner lessons, deck-building guidance, tier rankings, release details, and rules answers.",
       "modules": [
         {
           "order": 1,
-          "name": "My Seafood Stand Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/my-seafood-stand-codes",
-          "displayType": "code-box",
+          "name": "Disney Lorcana Hyperia City Card List",
+          "description": "Explore the Hyperia City card gallery, including new characters, locations, items, songs, and rarities. Sort the set by card type, ink color, rarity, and collector number to find cards for a deck or track a collection.",
+          "href": "/items/disney-lorcana-hyperia-city-card-list",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "Characters",
+              "detail": "Storyborn and Dreamborn glimmers fill the city's character roster."
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "Songs",
+              "detail": "Songs turn character exertion into removal, card draw, and lore payoffs."
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "Items",
+              "detail": "Permanent utility cards support item-heavy Sapphire and Emerald builds."
+            },
+            {
+              "label": "Locations",
+              "detail": "Location cards stay in play and give characters a place to move."
+            },
+            {
+              "label": "Rarities",
+              "detail": "The checklist spans Common through Legendary plus Enchanted chase cards."
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/my-seafood-stand-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Disney Lorcana Hyperia City Ink Drops Guide",
+          "description": "Learn how Hyperia City's Ink Drop tokens generate temporary Ink, when to spend or save them, and how they change turn planning across all six ink colors.",
+          "href": "/mechanics/disney-lorcana-hyperia-city-ink-drop-mechanic",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "1",
+              "detail": "Collect Ink Drop tokens from Hyperia City card effects; each token can be held across turns."
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "2",
+              "detail": "Spend one token to add 1 Ink for the current turn without permanently growing your inkwell."
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "3",
+              "detail": "Save tokens when the extra Ink unlocks a key cost or lets you play two cards together."
+            },
+            {
+              "label": "4",
+              "detail": "Pair Ink Drops with card draw so the burst turn has enough cards to use the extra Ink."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/my-seafood-stand-tier-list",
-          "displayType": "tier-grid",
+          "name": "Disney Lorcana Hyperia City New Cards",
+          "description": "Meet the standout Hyperia City additions, including Coco characters, songs, and location cards, with their ink identities, abilities, and deck roles.",
+          "href": "/mechanics/disney-lorcana-hyperia-city-card-abilities",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "Miguel",
+              "detail": "Miguel Rivera rewards singing with lore and can return a character from the discard pile."
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "Dante",
+              "detail": "Dante offers Challenger support or an Evasive discard-pile lore engine."
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "Hector",
+              "detail": "Héctor Rivera brings another Coco character to Hyperia City's music-focused card pool."
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "Ernesto",
+              "detail": "Ernesto De La Cruz sings songs at cost 5 and gains lore from opposing songs."
+            },
+            {
+              "label": "Songs",
+              "detail": "Though I Have To Say Goodbye turns discarded songs into Strength bonuses."
+            },
+            {
+              "label": "Locations",
+              "detail": "City locations provide persistent support for characters that move to them."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/my-seafood-stand-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Disney Lorcana Hyperia City Beginner Guide",
+          "description": "Learn the fundamentals of Disney Lorcana with Hyperia City: how to play cards, manage ink, quest for lore, challenge characters, and build a first deck.",
+          "href": "/guide/disney-lorcana-hyperia-city-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "1",
+              "detail": "Build a deck with at least 60 cards, no more than two ink types, and up to four copies of a card with the same full name."
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "2",
+              "detail": "Add one card to your inkwell each turn, then play characters, actions, items, and locations."
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "3",
+              "detail": "Quest with dry characters to gain lore; the first player to reach 20 lore wins."
+            },
+            {
+              "label": "4",
+              "detail": "Challenge exerted opposing characters by comparing Strength and Willpower."
+            },
+            {
+              "label": "5",
+              "detail": "Practice with a starter deck or sealed pool before upgrading to singles and a tuned list."
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/my-seafood-stand-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Disney Lorcana Hyperia City Deck Building Guide",
+          "description": "Turn the Hyperia City card pool into a focused deck with clear ink pairings, curve targets, core cards, and a repeatable testing routine.",
+          "href": "/guide/disney-lorcana-hyperia-city-deck-building-guide",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Ink Pair",
+              "detail": "Commit to two ink types so every card in the deck can support the same plan."
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Curve",
+              "detail": "Target enough one- and two-cost plays to spend Ink consistently from the first turns."
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Core",
+              "detail": "Lock 12 to 16 engine cards before filling the remaining slots with role players."
+            },
+            {
+              "label": "Testing",
+              "detail": "Play ten games, log missed ink drops, then cut the six weakest cards."
+            },
+            {
+              "label": "Uninkable",
+              "detail": "Keep uninkable cards near 8 to 12 so a full hand rarely stalls your inkwell."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/my-seafood-stand-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Disney Lorcana Hyperia City Deck Tier List",
+          "description": "Compare Hyperia City archetypes by consistency, interaction, curve health, matchup spread, skill ceiling, and build cost.",
+          "href": "/progression/disney-lorcana-hyperia-city-deck-tier-list",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "S",
+              "detail": "Ramp into finishers and aggressive quest swarms set the early pace."
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "A",
+              "detail": "Control with removal and tempo disruption reward precise sequencing."
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "B",
+              "detail": "Midrange value piles and bounce engines are playable with more variance."
+            },
+            {
+              "label": "C",
+              "detail": "Item-centric builds and budget mono-ink aggro trade consistency for focus."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Disney Lorcana Hyperia City Set Release Guide",
+          "description": "Review Hyperia City's prerelease and launch dates, product types, buying priorities, and event preparation for October 2026.",
+          "href": "/items/disney-lorcana-hyperia-city-release-date",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Oct 16",
+              "detail": "Prerelease events begin at local game stores with sealed play."
+            },
+            {
+              "label": "Oct 23",
+              "detail": "Hyperia City launches at wide retail and online stores."
+            },
+            {
+              "label": "Set 14",
+              "detail": "Hyperia City continues the Disney Lorcana expansion lineup."
+            },
+            {
+              "label": "Preorder",
+              "detail": "Reserve sealed product early and register for prerelease seats before they fill."
+            },
+            {
+              "label": "Budget",
+              "detail": "Set a spending limit before launch and buy singles once your deck plan is clear."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Disney Lorcana Hyperia City Rules and FAQ",
+          "description": "Answer common Hyperia City questions about songs, discard-pile abilities, Evasive, character upgrades, and interactions with earlier Disney Lorcana sets.",
+          "href": "/mechanics/disney-lorcana-hyperia-city-card-abilities",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Songs",
+              "detail": "Singing exerts a character whose cost meets the song's cost to trigger the song."
+            },
+            {
+              "label": "Discard",
+              "detail": "Hyperia City uses the discard pile as a resource for lore and recursion."
+            },
+            {
+              "label": "Evasive",
+              "detail": "Evasive characters cannot be challenged by characters without Evasive."
+            },
+            {
+              "label": "Upgrade",
+              "detail": "Miguel Rivera – Astonishing Musician can be played on top of another Miguel."
+            },
+            {
+              "label": "Abilities",
+              "detail": "Read each card's reminder text for exact timing and trigger conditions."
             }
           ]
         }
       ]
     },
     "faq": {
-      "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about My Seafood Stand.",
+      "title": "Disney Lorcana Hyperia City FAQ",
+      "description": "Quick answers about the Disney Lorcana Hyperia City expansion, its new mechanics, release schedule, and deck-building basics.",
       "items": [
         {
-          "question": "What is My Seafood Stand?",
-          "answer": "My Seafood Stand is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "question": "What is Disney Lorcana Hyperia City?",
+          "answer": "Disney Lorcana Hyperia City is a trading card game expansion from Ravensburger that brings Disney and Pixar characters into a modern metropolis. It introduces the Ink Drop mechanic, expands the song and discard themes, and includes characters from Pixar's Coco."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "When does Disney Lorcana Hyperia City release?",
+          "answer": "Disney Lorcana Hyperia City prerelease events begin October 16, 2026, and the full retail launch follows on October 23, 2026."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "How do Ink Drops work in Disney Lorcana Hyperia City?",
+          "answer": "Ink Drop tokens in Disney Lorcana Hyperia City are one-time resources. Spending a token adds 1 Ink for the current turn, so you can reach a key cost earlier or fit an extra card into a turn."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "How many cards are in a Disney Lorcana Hyperia City deck?",
+          "answer": "A Disney Lorcana Hyperia City deck follows the standard Lorcana deck rules: at least 60 cards, no more than two ink types, and no more than four copies of a card with the same full name."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "Which inks support the Disney Lorcana Hyperia City Ink Drop mechanic?",
+          "answer": "All six inks have access to Ink Drops in Disney Lorcana Hyperia City, with Amethyst, Emerald, and Sapphire offering the deepest generation and synergy."
+        },
+        {
+          "question": "Where should a new player start with Disney Lorcana Hyperia City?",
+          "answer": "Start with the Disney Lorcana Hyperia City beginner guide, learn the 20-lore win condition, and practice with a starter deck or sealed pool before buying singles for a tuned deck."
         }
       ]
     },
