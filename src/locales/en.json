@@ -8,7 +8,13 @@
   },
   "nav": {
     "menu": "Menu",
-    "toggleTheme": "Toggle theme"
+    "toggleTheme": "Toggle theme",
+    "items": "Items",
+    "guide": "Guide",
+    "mechanics": "Mechanics",
+    "progression": "Progression",
+    "tips": "Tips",
+    "community": "Community"
   },
   "home": {
     "meta": {
@@ -432,12 +438,35 @@
       "secondary": "Visit Official Hyperia City Page"
     }
   },
-  "bosses": {},
+  "items": {
+    "overviewTitle": "Disney Lorcana Hyperia City Cards & Products",
+    "overviewDescription": "Browse Disney Lorcana Hyperia City card lists, Enchanted cards, booster products, starter sets, pricing, and release details."
+  },
+  "guide": {
+    "overviewTitle": "Disney Lorcana Hyperia City Beginner Guides",
+    "overviewDescription": "Learn Disney Lorcana Hyperia City with beginner guides covering sealed play, deck building, prerelease events, and smart purchases."
+  },
+  "mechanics": {
+    "overviewTitle": "Disney Lorcana Hyperia City Mechanics",
+    "overviewDescription": "Understand Disney Lorcana Hyperia City rules, Ink Drops, card abilities, rarity tiers, and pull rates before your next match."
+  },
+  "progression": {
+    "overviewTitle": "Disney Lorcana Hyperia City Decks & Meta",
+    "overviewDescription": "Build stronger Disney Lorcana Hyperia City decks with meta lists, budget options, aggro strategies, and tier rankings."
+  },
+  "tips": {
+    "overviewTitle": "Disney Lorcana Hyperia City Tips & Values",
+    "overviewDescription": "Get practical Disney Lorcana Hyperia City tips on sealed cards, legendary picks, card values, and market prices."
+  },
+  "community": {
+    "overviewTitle": "Disney Lorcana Hyperia City Community",
+    "overviewDescription": "Follow Disney Lorcana Hyperia City reveals, leaks, Reddit discussion, and launch-day opening reports from the community."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
-    "activeCodes": "Active Codes",
+    "activeCodes": "Card Index",
     "updated": "Updated",
-    "viewAllCodes": "View all codes",
+    "viewAllCodes": "Browse all cards",
     "playOnRoblox": "Play on Roblox",
     "inThisSection": "In this section",
     "tableOfContents": "Table of Contents",
@@ -464,9 +493,9 @@
     "officialX": "Official Disney Lorcana X",
     "communityReddit": "r/Lorcana Community",
     "vvBuilder": "Official Lorcana Card Database",
-    "beginnerGuide": "Release Guide",
-    "raceGuides": "Character Cards",
-    "bossGuides": "Villain Cards",
+    "beginnerGuide": "Beginner Guide",
+    "raceGuides": "Card List",
+    "bossGuides": "Best Cards",
     "buildGuide": "Deck Guides",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
