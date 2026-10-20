@@ -13,6 +13,7 @@ import { routing } from "@/i18n/routing";
 const inter = Inter({ subsets: ["latin"], variable: "--font-sans" });
 
 const siteUrl = siteConfig.url;
+const siteName = "Disney Lorcana Hyperia City Wiki";
 
 export function generateStaticParams() {
   return routing.locales.map((locale) => ({ locale }));
@@ -24,8 +25,8 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   const adsenseId = process.env.NEXT_PUBLIC_GOOGLE_ADSENSE_ID;
   return {
     metadataBase: new URL(siteUrl),
-    applicationName: siteConfig.name,
-    title: { default: siteConfig.name, template: "%s" },
+    applicationName: siteName,
+    title: { default: siteName, template: "%s" },
     description: siteConfig.description,
     manifest: "/manifest.json",
     icons: {
@@ -36,8 +37,8 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
       shortcut: "/favicon.ico",
       apple: "/apple-touch-icon.png",
     },
-    openGraph: { type: "website", locale, url: siteUrl, siteName: siteConfig.name, images: [{ url: image }] },
-    twitter: { card: "summary_large_image", images: [image] },
+    openGraph: { type: "website", locale, url: siteUrl, siteName, title: siteName, description: siteConfig.description, images: [{ url: image, width: 1920, height: 1080, alt: `${siteName} Hyperia City artwork` }] },
+    twitter: { card: "summary_large_image", title: siteName, description: siteConfig.description, images: [image] },
     ...(adsenseId ? { other: { "google-adsense-account": adsenseId } } : {}),
   };
 }
@@ -47,13 +48,16 @@ export default async function LocaleLayout({ children, params }: { children: Rea
   setRequestLocale(locale);
   if (!hasLocale(routing.locales, locale)) notFound();
   const messages = await getMessages({ locale });
+  const socialProfiles = Object.values(siteConfig.social ?? {}).filter((value): value is string => Boolean(value));
   const organization = {
     "@context": "https://schema.org",
     "@type": "Organization",
-    name: siteConfig.name,
+    name: siteName,
     url: siteUrl,
+    description: siteConfig.description,
     logo: `${siteUrl}/android-chrome-512x512.png`,
     image: `${siteUrl}/images/hero.webp`,
+    sameAs: socialProfiles,
   };
 
   const adsenseId = process.env.NEXT_PUBLIC_GOOGLE_ADSENSE_ID;

@@ -1,14 +1,16 @@
 import type { MetadataRoute } from "next";
 import { getAllContentPaths } from "@/lib/content";
+import { siteConfig } from "@/config/site";
+import { CONTENT_TYPES } from "@/config/navigation";
 import { routing } from "@/i18n/routing";
 
 export const dynamic = "force-static";
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
-  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://vvultimatum.sbs";
+  const siteUrl = siteConfig.url;
 
-  // Static paths that always exist
-  const staticPaths = ["/", "/races", "/bosses", "/codes", "/guide", "/tier-list", "/maps", "/skills", "/privacy-policy", "/terms-of-service", "/copyright", "/about"];
+  // Static paths that always exist. Content listings are derived from CONTENT_TYPES so they cannot drift.
+  const staticPaths = ["/", ...CONTENT_TYPES.map((contentType) => `/${contentType}`), "/privacy-policy", "/terms-of-service", "/copyright", "/about"];
 
   // Dynamic paths: scan actual MDX content files
   const contentPaths = await getAllContentPaths("en");
