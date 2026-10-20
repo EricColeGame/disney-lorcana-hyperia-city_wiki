@@ -1,1 +1,507 @@
-{}
+{
+  "site": {
+    "name": "Disney Lorcana Hyperia City Wiki",
+    "shortName": "Hyperia City",
+    "tagline": "Kartenlisten, Ink Drops, Decks & Release-Guides",
+    "description": "Entdecke Disney Lorcana Hyperia City mit Kartenvorschauen, Ink-Drops-Regeln, Deck-Guides, Charakterdetails, Release-News und Sammeltipps für Fans.",
+    "legalNotice": "Unabhängiges Fan-Wiki. Nicht mit Disney, Ravensburger oder dem offiziellen Disney-Lorcana-Team verbunden."
+  },
+  "nav": {
+    "menu": "Menü",
+    "toggleTheme": "Farbschema wechseln",
+    "items": "Gegenstände",
+    "guide": "Leitfaden",
+    "mechanics": "Mechaniken",
+    "progression": "Fortschritt",
+    "tips": "Tipps",
+    "community": "Community"
+  },
+  "home": {
+    "meta": {
+      "title": "Disney Lorcana Hyperia City Wiki — Karten, Ink Drops & Deck-Guides",
+      "description": "Entdecke Disney Lorcana Hyperia City mit vollständiger Kartenliste, Ink-Drops-Regeln, Einsteigertipps, Deck-Guides, Tier-Liste und Release-Details."
+    },
+    "hero": {
+      "eyebrow": "Wiki zur Erweiterung Set 14",
+      "title": "Disney Lorcana Hyperia City Wiki",
+      "description": "Entdecke Hyperia City, die Disney-Lorcana-Erweiterung mit magischen Stadtabenteuern, musikalischen Charakteren, neuen Ink-Drops-Mechaniken, Sammelkarten und strategischem Deckbau.",
+      "stats": [
+        "Veröffentlichung: 23. Oktober 2026",
+        "Erweiterung Set 14",
+        "6 Illustrious-Karten",
+        "23 Kopien pro Illustrious-Karte"
+      ],
+      "primaryCta": "Release- & Deck-Guides",
+      "secondaryCta": "Offizielle Kartendatenbank",
+      "tertiaryCta": "Offizielle Hyperia-City-Seite",
+      "videoLabel": "Hyperia-City-Videoguide"
+    },
+    "updates": {
+      "title": "Neueste Updates",
+      "browse": "Alle Guides durchsuchen",
+      "viewAll": "Alle anzeigen"
+    },
+    "start": {
+      "eyebrow": "Hier starten",
+      "title": "Deine Reise durch Disney Lorcana Hyperia City",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Einsteigerguide",
+          "description": "Lerne die grundlegenden Lorcana-Regeln, baue ein regelkonformes 60-Karten-Deck und verstehe, wie Quests, Herausforderungen und Tintenvorräte in Hyperia City funktionieren."
+        },
+        {
+          "number": "2",
+          "title": "Vollständige Kartenliste",
+          "description": "Durchstöbere Hyperia-City-Charaktere, Aktionen, Gegenstände, Orte und Lieder nach Tinte, Seltenheit und Sammlernummer."
+        },
+        {
+          "number": "3",
+          "title": "Ink Drops erklärt",
+          "description": "Erfahre, wie Ink-Drop-Marker einmalige Tintenausbrüche erzeugen und wann du sie für eine entscheidende Runde aufsparst."
+        },
+        {
+          "number": "4",
+          "title": "Grundlagen des Deckbaus",
+          "description": "Wähle zwei Tinten, forme eine verlässliche Kostenkurve und teste dein erstes Hyperia-City-Deck, bevor du Einzelkarten kaufst."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Beliebte Seiten",
+      "title": "Gerade im Trend",
+      "quickLinks": [
+        "Kartenliste",
+        "Ink Drops",
+        "Deck-Tier-Liste",
+        "Release-Guide"
+      ],
+      "cards": [
+        {
+          "badge": "Einsteiger",
+          "title": "Einsteigerguide",
+          "description": "Lerne die Grundregeln, Decklimits und ersten Schritte für Disney Lorcana Hyperia City.",
+          "href": "/guide/disney-lorcana-hyperia-city-beginner-guide"
+        },
+        {
+          "badge": "Aktualisiert",
+          "title": "Vollständige Kartenliste",
+          "description": "Durchstöbere Hyperia-City-Charaktere, Lieder, Gegenstände und Orte nach Tinte und Seltenheit.",
+          "href": "/items/disney-lorcana-hyperia-city-card-list"
+        },
+        {
+          "badge": "Neu",
+          "title": "Ink-Drops-Guide",
+          "description": "Verstehe temporäre Tinte, Marker-Timing und die besten Runden für einen Ausbruch.",
+          "href": "/mechanics/disney-lorcana-hyperia-city-ink-drop-mechanic"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Deck-Tier-Liste",
+          "description": "Vergleiche Ramp-, Aggro-, Control-, Tempo-, Midrange- und Budget-Archetypen.",
+          "href": "/progression/disney-lorcana-hyperia-city-deck-tier-list"
+        },
+        {
+          "badge": "Neu",
+          "title": "Release-Guide",
+          "description": "Prüfe Prerelease- und Launch-Termine, Produkte und Kaufprioritäten.",
+          "href": "/items/disney-lorcana-hyperia-city-release-date"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Deckbau-Guide",
+          "description": "Wähle ein Tintenpaar, baue eine gesunde Kurve und teste eine fokussierte 60-Karten-Liste.",
+          "href": "/guide/disney-lorcana-hyperia-city-deck-building-guide"
+        },
+        {
+          "badge": "Neu",
+          "title": "Kartenfähigkeiten",
+          "description": "Überprüfe Lied-, Ablage-, Evasive- und Charakter-Upgrade-Fähigkeiten.",
+          "href": "/mechanics/disney-lorcana-hyperia-city-card-abilities"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Beste Karten",
+          "description": "Finde die herausragenden Hyperia-City-Karten für Decks und Sealed-Play.",
+          "href": "/items/disney-lorcana-hyperia-city-best-cards"
+        },
+        {
+          "badge": "Aktualisiert",
+          "title": "Seltenheitsguide",
+          "description": "Verstehe die Seltenheitsstufen von Hyperia City und was sie für Sammler bedeuten.",
+          "href": "/mechanics/disney-lorcana-hyperia-city-rarity-guide"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Was ist Disney Lorcana Hyperia City?",
+      "paragraphs": [
+        "Disney Lorcana Hyperia City ist eine Sammelkartenspiel-Erweiterung von Ravensburger, die Disney Lorcana in eine neonbeleuchtete Metropole führt. Das Set vereint Disney- und Pixar-Charaktere mit starkem Fokus auf Pixars Coco und führt musikgetriebene Kartendesigns, Lieder, Belohnungen für den Ablagestapel und die Ink-Drop-Mechanik ein.",
+        "Spieler bauen 60-Karten-Decks mit bis zu zwei Tintenarten, sammeln dann Lore, fordern gegnerische Charaktere heraus und rennen um 20 Lore. Hyperia City unterstützt Sealed-Play bei Prerelease-Events und konstruierten Deckbau – Neulinge erhalten ein komplettes Set zum Lernen, erfahrene Spieler frische Archetypen zum Testen."
+      ],
+      "stats": [
+        {
+          "label": "Herausgeber",
+          "value": "Ravensburger"
+        },
+        {
+          "label": "Format",
+          "value": "Sammelkartenspiel"
+        },
+        {
+          "label": "Veröffentlichung",
+          "value": "23. Oktober 2026"
+        },
+        {
+          "label": "Erweiterung",
+          "value": "Set 14"
+        },
+        {
+          "label": "Vorgestellter Film",
+          "value": "Coco"
+        },
+        {
+          "label": "Neue Mechanik",
+          "value": "Ink Drops"
+        }
+      ],
+      "cta": "Alle Guides entdecken"
+    },
+    "explore": {
+      "title": "Entdecke Disney Lorcana Hyperia City",
+      "description": "Tauche in die Hyperia-City-Erweiterung ein – mit Kartenlisten, Ink-Drops-Regeln, Einsteigerlektionen, Deckbau-Hilfe, Tier-Rankings, Release-Details und Antworten zu Regelfragen.",
+      "modules": [
+        {
+      "order": 1,
+          "name": "Kartenliste zu Disney Lorcana Hyperia City",
+          "description": "Durchstöbere die Hyperia-City-Kartengalerie mit neuen Charakteren, Orten, Gegenständen, Liedern und Seltenheiten. Sortiere das Set nach Kartentyp, Tintenfarbe, Seltenheit und Sammlernummer, um Karten für ein Deck zu finden oder deine Sammlung zu verfolgen.",
+          "href": "/items/disney-lorcana-hyperia-city-card-list",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Charaktere",
+              "detail": "Storyborn- und Dreamborn-Glimmer füllen das Charakterverzeichnis der Stadt."
+            },
+            {
+              "label": "Lieder",
+              "detail": "Lieder verwandeln das Anstrengen von Charakteren in Entfernung, Kartenziehen und Lore-Gewinn."
+            },
+            {
+              "label": "Gegenstände",
+              "detail": "Dauerhafte Nutzungskarten unterstützen gegenstandsreiche Saphir- und Smaragd-Decks."
+            },
+            {
+              "label": "Orte",
+              "detail": "Ortskarten bleiben im Spiel und geben Charakteren einen Ort zum Hinbewegen."
+            },
+            {
+              "label": "Seltenheiten",
+              "detail": "Die Checkliste reicht von Common bis Legendary und umfasst zusätzlich Enchanted-Chase-Karten."
+            }
+          ]
+        },
+        {
+      "order": 2,
+          "name": "Ink-Drops-Guide zu Disney Lorcana Hyperia City",
+          "description": "Erfahre, wie die Ink-Drop-Marker von Hyperia City temporäre Tinte erzeugen, wann du sie ausgeben oder aufsparen solltest und wie sie die Rundenplanung in allen sechs Tintenfarben verändern.",
+          "href": "/mechanics/disney-lorcana-hyperia-city-ink-drop-mechanic",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Sammle Ink-Drop-Marker durch Hyperia-City-Karteneffekte; jeder Marker kann über mehrere Runden gehalten werden."
+            },
+            {
+              "label": "2",
+              "detail": "Gib einen Marker aus, um für die aktuelle Runde 1 Tinte hinzuzufügen, ohne deinen Tintenvorrat dauerhaft zu vergrößern."
+            },
+            {
+              "label": "3",
+              "detail": "Spare Marker auf, wenn die zusätzliche Tinte einen wichtigen Kostenpunkt freischaltet oder dir erlaubt, zwei Karten zusammen zu spielen."
+            },
+            {
+              "label": "4",
+              "detail": "Kombiniere Ink Drops mit Kartenziehen, damit du in der Ausbruchsrunde genug Karten hast, um die zusätzliche Tinte zu nutzen."
+            }
+          ]
+        },
+        {
+      "order": 3,
+          "name": "Neue Karten aus Disney Lorcana Hyperia City",
+          "description": "Lerne die herausragenden Hyperia-City-Neuheiten kennen – darunter Coco-Charaktere, Lieder und Ortskarten – mit ihren Tintenidentitäten, Fähigkeiten und Rollen im Deck.",
+          "href": "/mechanics/disney-lorcana-hyperia-city-card-abilities",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Miguel",
+              "detail": "Miguel Rivera belohnt Singen mit Lore und kann einen Charakter aus dem Ablagestapel zurückholen."
+            },
+            {
+              "label": "Dante",
+              "detail": "Dante bietet Challenger-Unterstützung oder eine Evasive-Lore-Engine rund um den Ablagestapel."
+            },
+            {
+              "label": "Hector",
+              "detail": "Héctor Rivera bringt einen weiteren Coco-Charakter in den musikorientierten Kartenpool von Hyperia City."
+            },
+            {
+              "label": "Ernesto",
+              "detail": "Ernesto De La Cruz singt Lieder mit Kosten 5 und gewinnt Lore durch gegnerische Lieder."
+            },
+            {
+              "label": "Lieder",
+              "detail": "Though I Have To Say Goodbye verwandelt abgelegte Lieder in Stärkeboni."
+            },
+            {
+              "label": "Orte",
+              "detail": "Stadtorte bieten dauerhafte Unterstützung für Charaktere, die sich dorthin bewegen."
+            }
+          ]
+        },
+        {
+      "order": 4,
+          "name": "Einsteigerguide zu Disney Lorcana Hyperia City",
+          "description": "Lerne die Grundlagen von Disney Lorcana mit Hyperia City: Karten ausspielen, Tinte verwalten, Lore sammeln, Charaktere herausfordern und ein erstes Deck bauen.",
+          "href": "/guide/disney-lorcana-hyperia-city-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Baue ein Deck mit mindestens 60 Karten, höchstens zwei Tintenarten und bis zu vier Kopien einer Karte mit demselben vollständigen Namen."
+            },
+            {
+              "label": "2",
+              "detail": "Füge jede Runde eine Karte deinem Tintenvorrat hinzu und spiele dann Charaktere, Aktionen, Gegenstände und Orte aus."
+            },
+            {
+              "label": "3",
+              "detail": "Sammle mit unverbrauchten Charakteren Lore; wer zuerst 20 Lore erreicht, gewinnt."
+            },
+            {
+              "label": "4",
+              "detail": "Fordere angestrengte gegnerische Charaktere heraus, indem du Stärke und Willenskraft vergleichst."
+            },
+            {
+              "label": "5",
+              "detail": "Übe mit einem Starterdeck oder Sealed-Pool, bevor du auf Einzelkarten und eine optimierte Liste umsteigst."
+            }
+          ]
+        },
+        {
+      "order": 5,
+          "name": "Deckbau-Guide zu Disney Lorcana Hyperia City",
+          "description": "Verwandle den Hyperia-City-Kartenpool in ein fokussiertes Deck – mit klaren Tintenpaaren, Kurvenzielen, Kernkarten und einer wiederholbaren Testroutine.",
+          "href": "/guide/disney-lorcana-hyperia-city-deck-building-guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Tintenpaar",
+              "detail": "Festige dich auf zwei Tintenarten, damit jede Karte im Deck denselben Plan unterstützt."
+            },
+            {
+              "label": "Kurve",
+              "detail": "Plane genug Spielzüge mit Kosten 1 und 2 ein, um von den ersten Runden an konstant Tinte auszugeben."
+            },
+            {
+              "label": "Kern",
+              "detail": "Lege 12 bis 16 Engine-Karten fest, bevor du die restlichen Plätze mit Rollenspielern füllst."
+            },
+            {
+              "label": "Testen",
+              "detail": "Spiele zehn Partien, notiere verpasste Tintenabwürfe und entferne dann die sechs schwächsten Karten."
+            },
+            {
+              "label": "Nicht eintintbar",
+              "detail": "Halte nicht eintintbare Karten bei etwa 8 bis 12, damit eine volle Hand deinen Tintenvorrat selten blockiert."
+            }
+          ]
+        },
+        {
+      "order": 6,
+          "name": "Deck-Tier-Liste zu Disney Lorcana Hyperia City",
+          "description": "Vergleiche Hyperia-City-Archetypen nach Konsistenz, Interaktion, Kurvengesundheit, Matchup-Bandbreite, Skill-Ceiling und Baukosten.",
+          "href": "/progression/disney-lorcana-hyperia-city-deck-tier-list",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Ramp in Finisher und aggressive Quest-Schwärme bestimmen das frühe Tempo."
+            },
+            {
+              "label": "A",
+              "detail": "Control mit Entfernung und Tempo-Störung belohnt präzises Sequenzieren."
+            },
+            {
+              "label": "B",
+              "detail": "Midrange-Wertstapel und Bounce-Engines sind spielbar, aber mit mehr Varianz."
+            },
+            {
+              "label": "C",
+              "detail": "Gegenstandslastige Builds und günstiges Mono-Tinten-Aggro tauschen Konsistenz gegen Fokus."
+            }
+          ]
+        },
+        {
+      "order": 7,
+          "name": "Release-Guide zum Set von Disney Lorcana Hyperia City",
+          "description": "Prüfe die Prerelease- und Launch-Termine von Hyperia City, Produktarten, Kaufprioritäten und die Event-Vorbereitung für Oktober 2026.",
+          "href": "/items/disney-lorcana-hyperia-city-release-date",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "16. Okt.",
+              "detail": "Prerelease-Events beginnen in lokalen Spieleläden mit Sealed-Play."
+            },
+            {
+              "label": "23. Okt.",
+              "detail": "Hyperia City erscheint im breiten Handel und in Online-Shops."
+            },
+            {
+              "label": "Set 14",
+              "detail": "Hyperia City setzt die Disney-Lorcana-Erweiterungsreihe fort."
+            },
+            {
+              "label": "Vorbestellung",
+              "detail": "Reserviere versiegelte Produkte früh und melde dich für Prerelease-Plätze an, bevor sie ausgebucht sind."
+            },
+            {
+              "label": "Budget",
+              "detail": "Lege vor dem Launch ein Ausgabenlimit fest und kaufe Einzelkarten, sobald dein Deckplan klar ist."
+            }
+          ]
+        },
+        {
+      "order": 8,
+          "name": "Regeln und FAQ zu Disney Lorcana Hyperia City",
+          "description": "Beantworte häufige Fragen zu Hyperia City – zu Liedern, Ablagestapel-Fähigkeiten, Evasive, Charakter-Upgrades und Interaktionen mit früheren Disney-Lorcana-Sets.",
+          "href": "/mechanics/disney-lorcana-hyperia-city-card-abilities",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Lieder",
+              "detail": "Singen strengt einen Charakter an, dessen Kosten den Kosten des Liedes entsprechen, um das Lied auszulösen."
+            },
+            {
+              "label": "Ablage",
+              "detail": "Hyperia City nutzt den Ablagestapel als Ressource für Lore und Rekursion."
+            },
+            {
+              "label": "Evasive",
+              "detail": "Evasive-Charaktere können nicht von Charakteren ohne Evasive herausgefordert werden."
+            },
+            {
+              "label": "Upgrade",
+              "detail": "Miguel Rivera – Astonishing Musician kann auf einen anderen Miguel gelegt werden."
+            },
+            {
+              "label": "Fähigkeiten",
+              "detail": "Lies den Erinnerungstext jeder Karte für exaktes Timing und genaue Auslösebedingungen."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "FAQ zu Disney Lorcana Hyperia City",
+      "description": "Kurze Antworten zur Disney-Lorcana-Hyperia-City-Erweiterung, ihren neuen Mechaniken, dem Release-Zeitplan und den Grundlagen des Deckbaus.",
+      "items": [
+        {
+          "question": "Was ist Disney Lorcana Hyperia City?",
+          "answer": "Disney Lorcana Hyperia City ist eine Sammelkartenspiel-Erweiterung von Ravensburger, die Disney- und Pixar-Charaktere in eine moderne Metropole bringt. Sie führt die Ink-Drop-Mechanik ein, erweitert die Lied- und Ablagestapel-Themen und enthält Charaktere aus Pixars Coco."
+        },
+        {
+          "question": "Wann erscheint Disney Lorcana Hyperia City?",
+          "answer": "Die Prerelease-Events zu Disney Lorcana Hyperia City beginnen am 16. Oktober 2026; der vollständige Handelsstart folgt am 23. Oktober 2026."
+        },
+        {
+          "question": "Wie funktionieren Ink Drops in Disney Lorcana Hyperia City?",
+          "answer": "Ink-Drop-Marker in Disney Lorcana Hyperia City sind einmalige Ressourcen. Ein ausgegebener Marker fügt für die aktuelle Runde 1 Tinte hinzu, sodass du einen wichtigen Kostenpunkt früher erreichst oder eine zusätzliche Karte in eine Runde einbauen kannst."
+        },
+        {
+          "question": "Wie viele Karten enthält ein Deck in Disney Lorcana Hyperia City?",
+          "answer": "Ein Deck für Disney Lorcana Hyperia City folgt den Standard-Lorcana-Regeln: mindestens 60 Karten, höchstens zwei Tintenarten und höchstens vier Kopien einer Karte mit demselben vollständigen Namen."
+        },
+        {
+          "question": "Welche Tinten unterstützen die Ink-Drops-Mechanik in Disney Lorcana Hyperia City?",
+          "answer": "Alle sechs Tinten haben in Disney Lorcana Hyperia City Zugriff auf Ink Drops; Amethyst, Smaragd und Saphir bieten die stärkste Erzeugung und Synergie."
+        },
+        {
+          "question": "Wo sollte ein neuer Spieler mit Disney Lorcana Hyperia City beginnen?",
+          "answer": "Beginne mit dem Einsteigerguide zu Disney Lorcana Hyperia City, lerne die Siegbedingung von 20 Lore und übe mit einem Starterdeck oder Sealed-Pool, bevor du Einzelkarten für ein optimiertes Deck kaufst."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Bereit, Hyperia City zu entdecken?",
+      "description": "Von der ersten Kartenenthüllung bis zum ausgefeilten Deck deckt unser Fan-Wiki die Hyperia-City-Erweiterung, Ink-Drops-Mechaniken, Release-Details und das Wichtigste zum Sammeln ab.",
+      "primary": "Hyperia-City-Guides durchsuchen",
+      "secondary": "Offizielle Hyperia-City-Seite besuchen"
+    }
+  },
+  "items": {
+    "overviewTitle": "Karten & Produkte zu Disney Lorcana Hyperia City",
+    "overviewDescription": "Durchstöbere Kartenlisten, Enchanted-Karten, Booster-Produkte, Startersets, Preise und Release-Details zu Disney Lorcana Hyperia City."
+  },
+  "guide": {
+    "overviewTitle": "Einsteigerguides zu Disney Lorcana Hyperia City",
+    "overviewDescription": "Lerne Disney Lorcana Hyperia City mit Einsteigerguides zu Sealed-Play, Deckbau, Prerelease-Events und klugen Käufen."
+  },
+  "mechanics": {
+    "overviewTitle": "Mechaniken von Disney Lorcana Hyperia City",
+    "overviewDescription": "Verstehe die Regeln, Ink Drops, Kartenfähigkeiten, Seltenheitsstufen und Pull-Raten von Disney Lorcana Hyperia City vor deiner nächsten Partie."
+  },
+  "progression": {
+    "overviewTitle": "Decks & Meta zu Disney Lorcana Hyperia City",
+    "overviewDescription": "Baue stärkere Disney-Lorcana-Hyperia-City-Decks mit Meta-Listen, Budget-Optionen, Aggro-Strategien und Tier-Rankings."
+  },
+  "tips": {
+    "overviewTitle": "Tipps & Werte zu Disney Lorcana Hyperia City",
+    "overviewDescription": "Erhalte praktische Tipps zu Disney Lorcana Hyperia City – zu versiegelten Karten, Legendary-Picks, Kartenwerten und Marktpreisen."
+  },
+  "community": {
+    "overviewTitle": "Community zu Disney Lorcana Hyperia City",
+    "overviewDescription": "Verfolge Enthüllungen, Leaks, Reddit-Diskussionen und Öffnungsberichte zum Launch-Tag aus der Community zu Disney Lorcana Hyperia City."
+  },
+  "shared": {
+    "wikiNavigation": "Wiki-Navigation",
+    "activeCodes": "Kartenindex",
+    "cardIndexDescription": "Alle enthüllten Karten an einem Ort",
+    "deckMetaDescription": "Vergleiche die neuesten kompetitiven Listen",
+    "updated": "Aktualisiert",
+    "viewAllCodes": "Alle Karten durchsuchen",
+    "inThisSection": "In diesem Abschnitt",
+    "tableOfContents": "Inhaltsverzeichnis",
+    "nextSteps": "Nächste Schritte",
+    "needHelp": "Brauchst du Hilfe?",
+    "relatedReading": "Weiterführende Lektüre",
+    "relatedGuides": "Verwandte Guides",
+    "readMore": "Mehr lesen",
+    "officialMedia": "Offizielle Medien",
+    "home": "Startseite",
+    "noGuidesAvailable": "Noch keine Guides verfügbar. Schau bald wieder vorbei!",
+    "notFoundTitle": "Seite nicht gefunden",
+    "notFoundDescription": "Der gesuchte Guide wurde möglicherweise verschoben oder noch nicht hinzugefügt.",
+    "notFoundCta": "Hyperia-City-Guides durchsuchen"
+  },
+  "footer": {
+    "aboutTitle": "Disney Lorcana Hyperia City Wiki",
+    "about": "Das Disney Lorcana Hyperia City Wiki ist ein unabhängiges, von Fans erstelltes Guide-Portal mit Kartenvorschauen, Ink-Drops-Mechaniken, Deckbau, Release-Details und Sammeltipps zur Hyperia-City-Erweiterung.",
+    "quickLinks": "Schnelllinks",
+    "guides": "Guides",
+    "legal": "Rechtliches",
+    "copyright": "2026 Disney Lorcana Hyperia City Wiki. Nicht mit Disney, Ravensburger oder dem offiziellen Disney-Lorcana-Team verbunden.",
+    "description": "Von Fans erstellter Guide zur Hyperia-City-Erweiterung für das Disney-Lorcana-Sammelkartenspiel.",
+    "playGame": "Offizielle Hyperia-City-Seite besuchen",
+    "officialDiscord": "Offizieller Disney-Lorcana-Discord",
+    "officialYoutube": "Offizielles Disney-Lorcana-YouTube",
+    "officialX": "Offizielles Disney-Lorcana-X",
+    "communityReddit": "r/Lorcana-Community",
+    "vvBuilder": "Offizielle Lorcana-Kartendatenbank",
+    "beginnerGuide": "Einsteigerguide",
+    "raceGuides": "Kartenliste",
+    "bossGuides": "Beste Karten",
+    "buildGuide": "Deck-Guides",
+    "privacyPolicy": "Datenschutzerklärung",
+    "termsOfService": "Nutzungsbedingungen"
+  }
+}

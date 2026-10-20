@@ -13,8 +13,9 @@ type Messages = typeof en;
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
   const { locale } = await params;
-  const title = `${siteConfig.name} - Cards & Decks`;
-  const description = siteConfig.description;
+  const messages = (await getMessages({ locale })) as Messages;
+  const title = messages.home.meta.title;
+  const description = messages.home.meta.description;
   return {
     title,
     description,

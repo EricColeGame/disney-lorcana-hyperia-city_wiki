@@ -37,6 +37,6 @@ export const siteConfig: SiteConfig = {
     twitter: "https://x.com/DisneyLorcana",
     reddit: "https://www.reddit.com/r/Lorcana/",
   },
-  locales: ["en", "es", "pt", "de", "fr"],
+  locales: ["en", "de", "fr", "it"],
   defaultLocale: "en",
 };

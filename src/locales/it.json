@@ -1,1 +1,507 @@
-{}
+{
+  "site": {
+    "name": "Disney Lorcana Hyperia City Wiki",
+    "shortName": "Hyperia City",
+    "tagline": "Liste carte, Ink Drops, mazzi e guide all’uscita",
+    "description": "Esplora Disney Lorcana Hyperia City con anteprime delle carte, regole degli Ink Drops, guide ai mazzi, dettagli sui personaggi, notizie sull’uscita e consigli di collezione per i fan.",
+    "legalNotice": "Wiki indipendente creato dai fan. Non affiliato a Disney, Ravensburger o al team ufficiale Disney Lorcana."
+  },
+  "nav": {
+    "menu": "Menu",
+    "toggleTheme": "Cambia tema",
+    "items": "Oggetti",
+    "guide": "Guide",
+    "mechanics": "Meccaniche",
+    "progression": "Progressione",
+    "tips": "Consigli",
+    "community": "Community"
+  },
+  "home": {
+    "meta": {
+      "title": "Disney Lorcana Hyperia City Wiki — Carte, Ink Drops e guide ai mazzi",
+      "description": "Esplora Disney Lorcana Hyperia City con una lista completa delle carte, regole degli Ink Drops, consigli per principianti, guide ai mazzi, tier list e dettagli sull’uscita."
+    },
+    "hero": {
+      "eyebrow": "Wiki dell’espansione Set 14",
+      "title": "Disney Lorcana Hyperia City Wiki",
+      "description": "Esplora Hyperia City, l’espansione Disney Lorcana con avventure magiche in città, personaggi musicali, nuove meccaniche Ink Drops, carte da collezione e costruzione strategica dei mazzi.",
+      "stats": [
+        "Uscita: 23 ottobre 2026",
+        "Espansione Set 14",
+        "6 carte Illustrious",
+        "23 copie per carta Illustrious"
+      ],
+      "primaryCta": "Guide all’uscita e ai mazzi",
+      "secondaryCta": "Database ufficiale delle carte",
+      "tertiaryCta": "Pagina ufficiale di Hyperia City",
+      "videoLabel": "Video guida di Hyperia City"
+    },
+    "updates": {
+      "title": "Ultimi aggiornamenti",
+      "browse": "Sfoglia tutte le guide",
+      "viewAll": "Vedi tutto"
+    },
+    "start": {
+      "eyebrow": "Inizia qui",
+      "title": "Il tuo percorso in Disney Lorcana Hyperia City",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guida per principianti",
+          "description": "Impara le regole di base di Lorcana, costruisci un mazzo legale da 60 carte e scopri come funzionano missioni, sfide e calamaio in Hyperia City."
+        },
+        {
+          "number": "2",
+          "title": "Lista completa delle carte",
+          "description": "Sfoglia personaggi, azioni, oggetti, luoghi e canzoni di Hyperia City per inchiostro, rarità e numero di collezione."
+        },
+        {
+          "number": "3",
+          "title": "Ink Drops spiegati",
+          "description": "Scopri come i segnalini Ink Drop creano picchi di inchiostro una tantum e quando conservarli per un turno decisivo."
+        },
+        {
+          "number": "4",
+          "title": "Basi della costruzione dei mazzi",
+          "description": "Scegli due inchiostri, costruisci una curva dei costi affidabile e prova il tuo primo mazzo Hyperia City prima di acquistare carte singole."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Pagine popolari",
+      "title": "Di tendenza",
+      "quickLinks": [
+        "Lista carte",
+        "Ink Drops",
+        "Tier list dei mazzi",
+        "Guida all’uscita"
+      ],
+      "cards": [
+        {
+          "badge": "Principiante",
+          "title": "Guida per principianti",
+          "description": "Impara le regole di base, i limiti dei mazzi e i primi passi per giocare a Disney Lorcana Hyperia City.",
+          "href": "/guide/disney-lorcana-hyperia-city-beginner-guide"
+        },
+        {
+          "badge": "Aggiornato",
+          "title": "Lista completa delle carte",
+          "description": "Sfoglia personaggi, canzoni, oggetti e luoghi di Hyperia City per inchiostro e rarità.",
+          "href": "/items/disney-lorcana-hyperia-city-card-list"
+        },
+        {
+          "badge": "Nuovo",
+          "title": "Guida agli Ink Drops",
+          "description": "Comprendi l’inchiostro temporaneo, il timing dei segnalini e i turni migliori per spendere un picco.",
+          "href": "/mechanics/disney-lorcana-hyperia-city-ink-drop-mechanic"
+        },
+        {
+          "badge": "Popolare",
+          "title": "Tier list dei mazzi",
+          "description": "Confronta gli archetipi ramp, aggro, controllo, tempo, midrange ed economici.",
+          "href": "/progression/disney-lorcana-hyperia-city-deck-tier-list"
+        },
+        {
+          "badge": "Nuovo",
+          "title": "Guida all’uscita",
+          "description": "Controlla le date di prerelease e lancio, i prodotti e le priorità di acquisto.",
+          "href": "/items/disney-lorcana-hyperia-city-release-date"
+        },
+        {
+          "badge": "Popolare",
+          "title": "Guida alla costruzione dei mazzi",
+          "description": "Scegli una coppia di inchiostri, costruisci una curva equilibrata e prova una lista mirata da 60 carte.",
+          "href": "/guide/disney-lorcana-hyperia-city-deck-building-guide"
+        },
+        {
+          "badge": "Nuovo",
+          "title": "Abilità delle carte",
+          "description": "Esamina le abilità legate a canzoni, pila degli scarti, Evasive e potenziamento dei personaggi.",
+          "href": "/mechanics/disney-lorcana-hyperia-city-card-abilities"
+        },
+        {
+          "badge": "Popolare",
+          "title": "Migliori carte",
+          "description": "Trova le carte Hyperia City più importanti per i mazzi e il gioco sealed.",
+          "href": "/items/disney-lorcana-hyperia-city-best-cards"
+        },
+        {
+          "badge": "Aggiornato",
+          "title": "Guida alle rarità",
+          "description": "Comprendi i livelli di rarità di Hyperia City e cosa significano per i collezionisti.",
+          "href": "/mechanics/disney-lorcana-hyperia-city-rarity-guide"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Che cos’è Disney Lorcana Hyperia City?",
+      "paragraphs": [
+        "Disney Lorcana Hyperia City è un’espansione del gioco di carte collezionabili di Ravensburger che porta Disney Lorcana in una metropoli illuminata al neon. Il set riunisce personaggi Disney e Pixar, con una forte attenzione a Coco di Pixar, e introduce carte ispirate alla musica, canzoni, ricompense legate agli scarti e la meccanica Ink Drop.",
+        "I giocatori costruiscono mazzi da 60 carte usando al massimo due tipi di inchiostro, poi vanno in missione per il lore, sfidano i personaggi avversari e corrono verso 20 lore. Hyperia City supporta il gioco sealed durante i prerelease e la costruzione dei mazzi, offrendo ai nuovi giocatori un set completo con cui imparare e ai veterani nuovi archetipi da testare."
+      ],
+      "stats": [
+        {
+          "label": "Editore",
+          "value": "Ravensburger"
+        },
+        {
+          "label": "Formato",
+          "value": "Gioco di carte collezionabili"
+        },
+        {
+          "label": "Uscita",
+          "value": "23 ottobre 2026"
+        },
+        {
+          "label": "Espansione",
+          "value": "Set 14"
+        },
+        {
+          "label": "Film protagonista",
+          "value": "Coco"
+        },
+        {
+          "label": "Nuova meccanica",
+          "value": "Ink Drops"
+        }
+      ],
+      "cta": "Esplora tutte le guide"
+    },
+    "explore": {
+      "title": "Esplora Disney Lorcana Hyperia City",
+      "description": "Immergiti nell’espansione Hyperia City con liste carte, regole degli Ink Drops, lezioni per principianti, consigli sulla costruzione dei mazzi, classifiche per tier, dettagli sull’uscita e risposte alle domande sulle regole.",
+      "modules": [
+        {
+      "order": 1,
+          "name": "Lista carte di Disney Lorcana Hyperia City",
+          "description": "Esplora la galleria di carte Hyperia City, con nuovi personaggi, luoghi, oggetti, canzoni e rarità. Ordina il set per tipo di carta, colore dell’inchiostro, rarità e numero di collezione per trovare carte per un mazzo o seguire la tua collezione.",
+          "href": "/items/disney-lorcana-hyperia-city-card-list",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Personaggi",
+              "detail": "I glimmer Storyborn e Dreamborn compongono il roster di personaggi della città."
+            },
+            {
+              "label": "Canzoni",
+              "detail": "Le canzoni trasformano l’impegno dei personaggi in rimozione, pesca carte e guadagno di lore."
+            },
+            {
+              "label": "Oggetti",
+              "detail": "Le carte utilità permanenti sostengono i mazzi Zaffiro e Smeraldo ricchi di oggetti."
+            },
+            {
+              "label": "Luoghi",
+              "detail": "Le carte Luogo restano in gioco e danno ai personaggi un posto dove spostarsi."
+            },
+            {
+              "label": "Rarità",
+              "detail": "La checklist va da Common a Legendary, con in più le carte Enchanted più ricercate."
+            }
+          ]
+        },
+        {
+      "order": 2,
+          "name": "Guida agli Ink Drops di Disney Lorcana Hyperia City",
+          "description": "Scopri come i segnalini Ink Drop di Hyperia City generano inchiostro temporaneo, quando spenderli o conservarli e come cambiano la pianificazione dei turni in tutti e sei i colori d’inchiostro.",
+          "href": "/mechanics/disney-lorcana-hyperia-city-ink-drop-mechanic",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Raccogli segnalini Ink Drop dagli effetti delle carte Hyperia City; ogni segnalino può essere conservato tra un turno e l’altro."
+            },
+            {
+              "label": "2",
+              "detail": "Spendi un segnalino per aggiungere 1 inchiostro nel turno corrente senza aumentare permanentemente il tuo calamaio."
+            },
+            {
+              "label": "3",
+              "detail": "Conserva i segnalini quando l’inchiostro extra sblocca un costo chiave o ti permette di giocare due carte insieme."
+            },
+            {
+              "label": "4",
+              "detail": "Abbina gli Ink Drops alla pesca carte, così il turno di picco avrà abbastanza carte per usare l’inchiostro extra."
+            }
+          ]
+        },
+        {
+      "order": 3,
+          "name": "Nuove carte di Disney Lorcana Hyperia City",
+          "description": "Scopri le aggiunte più importanti di Hyperia City, tra cui personaggi di Coco, canzoni e carte Luogo, con le loro identità d’inchiostro, abilità e ruoli nei mazzi.",
+          "href": "/mechanics/disney-lorcana-hyperia-city-card-abilities",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Miguel",
+              "detail": "Miguel Rivera premia il canto con lore e può riportare un personaggio dalla pila degli scarti."
+            },
+            {
+              "label": "Dante",
+              "detail": "Dante offre supporto Challenger oppure un motore lore Evasive basato sulla pila degli scarti."
+            },
+            {
+              "label": "Hector",
+              "detail": "Héctor Rivera aggiunge un altro personaggio di Coco al pool di carte di Hyperia City dedicato alla musica."
+            },
+            {
+              "label": "Ernesto",
+              "detail": "Ernesto De La Cruz canta canzoni di costo 5 e guadagna lore dalle canzoni avversarie."
+            },
+            {
+              "label": "Canzoni",
+              "detail": "Though I Have To Say Goodbye trasforma le canzoni scartate in bonus di Forza."
+            },
+            {
+              "label": "Luoghi",
+              "detail": "I luoghi cittadini offrono supporto persistente ai personaggi che vi si spostano."
+            }
+          ]
+        },
+        {
+      "order": 4,
+          "name": "Guida per principianti di Disney Lorcana Hyperia City",
+          "description": "Impara i fondamenti di Disney Lorcana con Hyperia City: come giocare le carte, gestire l’inchiostro, andare in missione per il lore, sfidare i personaggi e costruire un primo mazzo.",
+          "href": "/guide/disney-lorcana-hyperia-city-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Costruisci un mazzo con almeno 60 carte, non più di due tipi di inchiostro e fino a quattro copie di una carta con lo stesso nome completo."
+            },
+            {
+              "label": "2",
+              "detail": "Aggiungi una carta al calamaio a ogni turno, poi gioca personaggi, azioni, oggetti e luoghi."
+            },
+            {
+              "label": "3",
+              "detail": "Vai in missione con personaggi non impegnati per guadagnare lore; il primo giocatore a raggiungere 20 lore vince."
+            },
+            {
+              "label": "4",
+              "detail": "Sfida i personaggi avversari impegnati confrontando Forza e Volontà."
+            },
+            {
+              "label": "5",
+              "detail": "Allenati con un mazzo starter o un pool sealed prima di passare alle carte singole e a una lista ottimizzata."
+            }
+          ]
+        },
+        {
+      "order": 5,
+          "name": "Guida alla costruzione dei mazzi di Disney Lorcana Hyperia City",
+          "description": "Trasforma il pool di carte Hyperia City in un mazzo mirato con coppie di inchiostri chiare, obiettivi di curva, carte centrali e una routine di test ripetibile.",
+          "href": "/guide/disney-lorcana-hyperia-city-deck-building-guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Coppia di inchiostri",
+              "detail": "Scegli due tipi di inchiostro affinché ogni carta del mazzo sostenga lo stesso piano."
+            },
+            {
+              "label": "Curva",
+              "detail": "Includi abbastanza giocate da costo 1 e 2 per spendere inchiostro con continuità fin dai primi turni."
+            },
+            {
+              "label": "Nucleo",
+              "detail": "Fissa 12-16 carte motore prima di riempire gli slot rimanenti con carte di supporto."
+            },
+            {
+              "label": "Test",
+              "detail": "Gioca dieci partite, annota le giocate d’inchiostro mancate e poi rimuovi le sei carte più deboli."
+            },
+            {
+              "label": "Non incantabile",
+              "detail": "Mantieni le carte non incantabili tra 8 e 12, così una mano piena blocca raramente il calamaio."
+            }
+          ]
+        },
+        {
+      "order": 6,
+          "name": "Tier list dei mazzi di Disney Lorcana Hyperia City",
+          "description": "Confronta gli archetipi di Hyperia City per costanza, interazione, salute della curva, varietà dei matchup, skill ceiling e costo di costruzione.",
+          "href": "/progression/disney-lorcana-hyperia-city-deck-tier-list",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "I ramp verso i finisher e gli sciami aggressivi di missioni dettano il ritmo iniziale."
+            },
+            {
+              "label": "A",
+              "detail": "Il controllo con rimozioni e disturbo del tempo premia un sequenziamento preciso."
+            },
+            {
+              "label": "B",
+              "detail": "Le pile di valore midrange e i motori bounce sono giocabili, ma con maggiore varianza."
+            },
+            {
+              "label": "C",
+              "detail": "I build centrati sugli oggetti e l’aggro mono-inchiostro economico scambiano costanza con concentrazione."
+            }
+          ]
+        },
+        {
+      "order": 7,
+          "name": "Guida all’uscita del set Disney Lorcana Hyperia City",
+          "description": "Controlla le date di prerelease e lancio di Hyperia City, i tipi di prodotto, le priorità di acquisto e la preparazione agli eventi di ottobre 2026.",
+          "href": "/items/disney-lorcana-hyperia-city-release-date",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "16 ott.",
+              "detail": "Gli eventi prerelease iniziano nei negozi locali con il gioco sealed."
+            },
+            {
+              "label": "23 ott.",
+              "detail": "Hyperia City esce nella grande distribuzione e nei negozi online."
+            },
+            {
+              "label": "Set 14",
+              "detail": "Hyperia City prosegue la linea di espansioni Disney Lorcana."
+            },
+            {
+              "label": "Preordine",
+              "detail": "Prenota presto i prodotti sigillati e registrati ai posti prerelease prima che si esauriscano."
+            },
+            {
+              "label": "Budget",
+              "detail": "Fissa un limite di spesa prima del lancio e acquista carte singole quando il piano del mazzo è chiaro."
+            }
+          ]
+        },
+        {
+      "order": 8,
+          "name": "Regole e FAQ di Disney Lorcana Hyperia City",
+          "description": "Rispondi alle domande frequenti su Hyperia City: canzoni, abilità della pila degli scarti, Evasive, potenziamenti dei personaggi e interazioni con i set Disney Lorcana precedenti.",
+          "href": "/mechanics/disney-lorcana-hyperia-city-card-abilities",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Canzoni",
+              "detail": "Cantare impegna un personaggio il cui costo corrisponde a quello della canzone per attivarla."
+            },
+            {
+              "label": "Scarti",
+              "detail": "Hyperia City usa la pila degli scarti come risorsa per lore e ricorsione."
+            },
+            {
+              "label": "Evasive",
+              "detail": "I personaggi Evasive non possono essere sfidati da personaggi senza Evasive."
+            },
+            {
+              "label": "Potenziamento",
+              "detail": "Miguel Rivera – Astonishing Musician può essere giocato sopra un altro Miguel."
+            },
+            {
+              "label": "Abilità",
+              "detail": "Leggi il testo di promemoria di ogni carta per timing esatti e condizioni di attivazione."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "FAQ di Disney Lorcana Hyperia City",
+      "description": "Risposte rapide sull’espansione Disney Lorcana Hyperia City, le sue nuove meccaniche, il calendario di uscita e le basi della costruzione dei mazzi.",
+      "items": [
+        {
+          "question": "Che cos’è Disney Lorcana Hyperia City?",
+          "answer": "Disney Lorcana Hyperia City è un’espansione del gioco di carte collezionabili di Ravensburger che porta i personaggi Disney e Pixar in una metropoli moderna. Introduce la meccanica Ink Drop, amplia i temi delle canzoni e degli scarti e include personaggi di Coco di Pixar."
+        },
+        {
+          "question": "Quando esce Disney Lorcana Hyperia City?",
+          "answer": "Gli eventi prerelease di Disney Lorcana Hyperia City iniziano il 16 ottobre 2026, mentre il lancio completo nei negozi segue il 23 ottobre 2026."
+        },
+        {
+          "question": "Come funzionano gli Ink Drops in Disney Lorcana Hyperia City?",
+          "answer": "I segnalini Ink Drop di Disney Lorcana Hyperia City sono risorse monouso. Spenderne uno aggiunge 1 inchiostro per il turno corrente, così puoi raggiungere prima un costo chiave o inserire una carta extra in un turno."
+        },
+        {
+          "question": "Quante carte contiene un mazzo di Disney Lorcana Hyperia City?",
+          "answer": "Un mazzo di Disney Lorcana Hyperia City segue le regole standard di Lorcana: almeno 60 carte, non più di due tipi di inchiostro e non più di quattro copie di una carta con lo stesso nome completo."
+        },
+        {
+          "question": "Quali inchiostri supportano la meccanica Ink Drop di Disney Lorcana Hyperia City?",
+          "answer": "Tutti e sei gli inchiostri hanno accesso agli Ink Drops in Disney Lorcana Hyperia City; Ametista, Smeraldo e Zaffiro offrono la generazione e la sinergia più profonde."
+        },
+        {
+          "question": "Da dove dovrebbe iniziare un nuovo giocatore con Disney Lorcana Hyperia City?",
+          "answer": "Inizia dalla guida per principianti di Disney Lorcana Hyperia City, impara la condizione di vittoria a 20 lore e allenati con un mazzo starter o un pool sealed prima di acquistare carte singole per un mazzo ottimizzato."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Pronto a esplorare Hyperia City?",
+      "description": "Dalla prima rivelazione di una carta a un mazzo rifinito, il nostro wiki creato dai fan copre l’espansione Hyperia City, le meccaniche Ink Drops, i dettagli sull’uscita e l’essenziale del collezionismo.",
+      "primary": "Sfoglia le guide di Hyperia City",
+      "secondary": "Visita la pagina ufficiale di Hyperia City"
+    }
+  },
+  "items": {
+    "overviewTitle": "Carte e prodotti Disney Lorcana Hyperia City",
+    "overviewDescription": "Sfoglia liste carte, carte Enchanted, prodotti booster, set starter, prezzi e dettagli sull’uscita di Disney Lorcana Hyperia City."
+  },
+  "guide": {
+    "overviewTitle": "Guide per principianti di Disney Lorcana Hyperia City",
+    "overviewDescription": "Impara Disney Lorcana Hyperia City con guide per principianti su gioco sealed, costruzione dei mazzi, eventi prerelease e acquisti intelligenti."
+  },
+  "mechanics": {
+    "overviewTitle": "Meccaniche di Disney Lorcana Hyperia City",
+    "overviewDescription": "Comprendi regole, Ink Drops, abilità delle carte, livelli di rarità e pull rate di Disney Lorcana Hyperia City prima della prossima partita."
+  },
+  "progression": {
+    "overviewTitle": "Mazzi e meta di Disney Lorcana Hyperia City",
+    "overviewDescription": "Costruisci mazzi Disney Lorcana Hyperia City più forti con liste meta, opzioni economiche, strategie aggro e classifiche per tier."
+  },
+  "tips": {
+    "overviewTitle": "Consigli e valori di Disney Lorcana Hyperia City",
+    "overviewDescription": "Ottieni consigli pratici su Disney Lorcana Hyperia City: carte sigillate, scelte Legendary, valore delle carte e prezzi di mercato."
+  },
+  "community": {
+    "overviewTitle": "Community di Disney Lorcana Hyperia City",
+    "overviewDescription": "Segui rivelazioni, leak, discussioni su Reddit e resoconti delle aperture del giorno di lancio dalla community di Disney Lorcana Hyperia City."
+  },
+  "shared": {
+    "wikiNavigation": "Navigazione wiki",
+    "activeCodes": "Indice carte",
+    "cardIndexDescription": "Tutte le carte rivelate in un unico posto",
+    "deckMetaDescription": "Confronta le ultime liste competitive",
+    "updated": "Aggiornato",
+    "viewAllCodes": "Sfoglia tutte le carte",
+    "inThisSection": "In questa sezione",
+    "tableOfContents": "Indice",
+    "nextSteps": "Prossimi passi",
+    "needHelp": "Serve aiuto?",
+    "relatedReading": "Letture correlate",
+    "relatedGuides": "Guide correlate",
+    "readMore": "Leggi di più",
+    "officialMedia": "Media ufficiali",
+    "home": "Home",
+    "noGuidesAvailable": "Nessuna guida disponibile al momento. Torna presto!",
+    "notFoundTitle": "Pagina non trovata",
+    "notFoundDescription": "La guida che stai cercando potrebbe essere stata spostata o non essere ancora stata aggiunta.",
+    "notFoundCta": "Sfoglia le guide di Hyperia City"
+  },
+  "footer": {
+    "aboutTitle": "Disney Lorcana Hyperia City Wiki",
+    "about": "Disney Lorcana Hyperia City Wiki è un hub di guide indipendente creato dai fan, dedicato ad anteprime delle carte, meccaniche Ink Drops, costruzione dei mazzi, dettagli sull’uscita e consigli di collezione per l’espansione Hyperia City.",
+    "quickLinks": "Link rapidi",
+    "guides": "Guide",
+    "legal": "Note legali",
+    "copyright": "2026 Disney Lorcana Hyperia City Wiki. Non affiliato a Disney, Ravensburger o al team ufficiale Disney Lorcana.",
+    "description": "Guida creata dai fan all’espansione Hyperia City per il gioco di carte collezionabili Disney Lorcana.",
+    "playGame": "Visita la pagina ufficiale di Hyperia City",
+    "officialDiscord": "Discord ufficiale Disney Lorcana",
+    "officialYoutube": "YouTube ufficiale Disney Lorcana",
+    "officialX": "X ufficiale Disney Lorcana",
+    "communityReddit": "Community r/Lorcana",
+    "vvBuilder": "Database ufficiale delle carte Lorcana",
+    "beginnerGuide": "Guida per principianti",
+    "raceGuides": "Lista carte",
+    "bossGuides": "Migliori carte",
+    "buildGuide": "Guide ai mazzi",
+    "privacyPolicy": "Informativa sulla privacy",
+    "termsOfService": "Termini di servizio"
+  }
+}

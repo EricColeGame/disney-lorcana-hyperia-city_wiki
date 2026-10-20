@@ -465,9 +465,10 @@
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Card Index",
+    "cardIndexDescription": "Every revealed card in one place",
+    "deckMetaDescription": "Compare the latest competitive lists",
     "updated": "Updated",
     "viewAllCodes": "Browse all cards",
-    "playOnRoblox": "Play on Roblox",
     "inThisSection": "In this section",
     "tableOfContents": "Table of Contents",
     "nextSteps": "Next Steps",
@@ -477,7 +478,10 @@
     "readMore": "Read more",
     "officialMedia": "Official media",
     "home": "Home",
-    "noGuidesAvailable": "No guides available yet. Check back soon!"
+    "noGuidesAvailable": "No guides available yet. Check back soon!",
+    "notFoundTitle": "Page not found",
+    "notFoundDescription": "The guide you are looking for may have moved or has not been added yet.",
+    "notFoundCta": "Browse Hyperia City Guides"
   },
   "footer": {
     "aboutTitle": "Disney Lorcana Hyperia City Wiki",
